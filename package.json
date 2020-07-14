@@ -1,0 +1,26 @@
+{
+  "name": "google-search-book",
+  "version": "1.0.0",
+  "description": "google search book app",
+  "main": "server.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prithvipsingh/Google-Book-Search.git"
+  },
+  "author": "Prithvi Pal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prithvipsingh/Google-Book-Search/issues"
+  },
+  "homepage": "https://github.com/prithvipsingh/Google-Book-Search#readme"
+}
