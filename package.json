@@ -30,9 +30,6 @@
     "url": "git+https://github.com/prithvipsingh/Google-Book-Search.git"
   },
   "author": "Prithvi Pal Singh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prithvipsingh/Google-Book-Search/issues"
-  },
-  "homepage": "https://github.com/prithvipsingh/Google-Book-Search#readme"
+  "license": "ISC"
+  
 }
