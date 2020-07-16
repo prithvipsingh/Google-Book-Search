@@ -1,10 +1,10 @@
 nav {
-    background-color: #137a63
+    background-color: rgb(10, 169, 121);
 }
 
 a {
     text-decoration: none;
-    color: snow
+    color:black;
 }
  a:hover {
     text-decoration: underline;
